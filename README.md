@@ -1,3 +1,4 @@
+![Recursos Atualizados](https://img.shields.io/badge/Recursos-Atualizados-brightgreen)
 # 🚀 JavaScript Study Repository
 
 Repositório dedicado ao estudo e prática de JavaScript, incluindo fundamentos, ES6+, e algoritmos.
