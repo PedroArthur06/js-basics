@@ -6,27 +6,35 @@ Repositório dedicado ao estudo e prática de JavaScript, incluindo fundamentos,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 📂 Estrutura do Repositório
 
-```plaintext
-Js-Basics
-/
-├── algorithms/             - Algoritmos e estruturas de dados
-│   ├── conditionals/
-│   └── loops/
+# 📂 Estrutura do Repositório
+
+```text
+📦 Js-Basics
+├── 📁 algorithms                # Algoritmos e estruturas de dados
+│   ├── 📂 conditionals          # 🧠 Lógica condicional
+│   │   ├️ Break and Continue.js
+│   │   ├️ If...else.js
+│   │   └️ Switch...case.js
+│   │
+│   └── 📂 loops                 # 🔁 Estruturas de repetição
+│       ├️ For.js
+│       ├️ While.js
+│       ├️ Do-while.js
+│       └️ For-in and For-of.js
 │ 
-├── challenges/             - Desafios de código
+├── 📁 challenges                # 🏆 Desafios de código
 │ 
-├── es6+features/           - Recursos modernos
-│   ├── arrow-functions.js
-│   ├── promises.js
-│   └── async-await.js
+├── 📁 es6+features              # ✨ Recursos modernos (ES6+)
+│   ├️ arrow-functions.js
+│   ├️ promises.js
+│   └️ async-await.js
 │ 
-└── fundamentals/           - Conceitos básicos de JS
-    ├── variables.js
-    ├── data-types.js
-    └── functions.js
-```
+└── 📁 fundamentals              # 🧱 Fundamentos da linguagem
+    ├️ variables.js
+    ├️ data-types.js
+    └️ functions.js
+````
 
 
 ## 🧠 Tópicos Abordados
