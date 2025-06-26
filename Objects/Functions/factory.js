@@ -7,7 +7,6 @@ function criarDinossauro(nome, cor) {
     }
   };
 }
-
 const dino1 = criarDinossauro("Rex", "verde");
 const dino2 = criarDinossauro("Blue", "azul");
 
