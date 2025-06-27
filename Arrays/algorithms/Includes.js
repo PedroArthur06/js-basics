@@ -9,4 +9,4 @@ function includes(array, searchElement) {
 }
 
 const numbers = [1, 2, 3, 4, 5];
-console.log(includes(numbers, 3));
+console.log(numbers.includes(3)); 
